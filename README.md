@@ -1,6 +1,9 @@
 ![](java-developer.png)
 # Портфолио
 
+## Алгоритмы (пополняется)
+* [leetcode](https://github.com/kolchenkoav/leetcode-algoritms)
+
 ## Учебные проекты
 
 * [Разработка локального поискового движка по сайту (диплом)](<https://github.com/kolchenkoav/graduate-work-site-search-engine.git>)
